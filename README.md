@@ -1,1 +1,1 @@
-Listado de los dispositivos que emula Chrome a 2024 tomado de https://source.chromium.org/chromium/chromium/src/+/main:out/fuchsia-Debug/gen/third_party/devtools-frontend/src/front_end/models/emulation/emulation.js?q=iphone%20emulation&ss=chromium%2Fchromium%2Fsrc
+Listado de los dispositivos que emula Chrome a 2024 tomado de https://source.chromium.org/chromium/chromium/src/+/main:out/fuchsia-Debug/gen/third_party/devtools-frontend/src/front_end/models/emulation/EmulatedDevices.js
