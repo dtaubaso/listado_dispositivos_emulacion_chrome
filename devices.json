@@ -1046,11 +1046,8 @@
   },
   {
     "show-by-default": false,
-    /* DEVICE-LIST-IF-JS */
-    "title": i18nLazyString(UIStrings.laptopWithTouch),
-    /* DEVICE-LIST-ELSE
-    'title': 'Laptop with touch',
-    DEVICE-LIST-END-IF */
+    "title": "Laptop with touch",
+
     "screen": {
       "horizontal": { "width": 1280, "height": 950 },
       "device-pixel-ratio": 1,
@@ -1063,11 +1060,8 @@
   },
   {
     "show-by-default": false,
-    /* DEVICE-LIST-IF-JS */
-    "title": i18nLazyString(UIStrings.laptopWithHiDPIScreen),
-    /* DEVICE-LIST-ELSE
-    'title': 'Laptop with HiDPI screen',
-    DEVICE-LIST-END-IF */
+    "title": "Laptop with HiDPI screen",
+
     "screen": {
       "horizontal": { "width": 1440, "height": 900 },
       "device-pixel-ratio": 2,
@@ -1080,11 +1074,7 @@
   },
   {
     "show-by-default": false,
-    /* DEVICE-LIST-IF-JS */
-    "title": i18nLazyString(UIStrings.laptopWithMDPIScreen),
-    /* DEVICE-LIST-ELSE
-    'title': 'Laptop with MDPI screen',
-    DEVICE-LIST-END-IF */
+    "title": "Laptop with MDPI screen",
     "screen": {
       "horizontal": { "width": 1280, "height": 800 },
       "device-pixel-ratio": 1,
